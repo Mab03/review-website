@@ -1,0 +1,7 @@
+.service-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* border-right: 1px solid lightgray; */
+    margin-right: 25px;
+    margin-left: 25px;
+}

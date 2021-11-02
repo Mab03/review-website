@@ -1,0 +1,32 @@
+
+.service{
+    margin-top: 20px;
+    display: grid;
+    /* border-bottom: 1px solid lightgray; */
+    border: 3px solid lightgray;
+    border-radius: 10px;
+    margin-right: 20px; 
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+}
+.service-name{
+    color: blue;
+    font-weight: 400;
+}
+/* .btn-regular{
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+/* .icon-color{
+    color: gold;
+} */
+.responsive{
+    width: 80%;
+    height: 400px;
+    border-radius: 10px;
+}

@@ -1,0 +1,133 @@
+[
+    {
+        "key": "001",
+        "name": "English",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "In-person",
+        "duration": "7 months",
+        "img": "https://englishlive.ef.com/blog/wp-content/uploads/sites/2/2015/05/fluency-in-5-easy-steps.jpg",
+        "courseFee": 5000
+       
+    },
+    {
+        "key": "002",
+        "name": "French",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "Online",
+        "duration": "6 months",
+        "img": "https://www.ouiinfrance.com/wp-content/uploads/2020/02/best-french-language-learning-tips.jpg",
+        "courseFee": 4500
+        
+    },
+    {
+        "key": "003",
+        "name": "Chinese",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "In-person",
+        "duration": "7 months",
+        "img": "https://blog.tutorming.com/hs-fs/hubfs/how-to-learn-chinese.jpg?width=749&name=how-to-learn-chinese.jpg",
+        "courseFee": 4000
+       
+    },
+    {
+        "key": "004",
+        "name": "Korean",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "In-person",
+        "duration": "7 months",
+        "img": "https://bilingua.io/wp-content/uploads/2017/04/Learn-Korean.jpg",
+        "courseFee": 3500
+       
+    },
+    {
+        "key": "005",
+        "name": "Spanish",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "In-person",
+        "duration": "7 months",
+        "img": "https://gurmentor.com/wp-content/uploads/2020/04/gurmentor.com-what-is-the-best-way-to-learn-spanish-on-your-own-2020-04-13_16-35-15_610063-1024x679.jpg",
+        "courseFee": 3200
+       
+    },
+    {
+        "key": "006",
+        "name": "Italian",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "In-person",
+        "duration": "7 months",
+        "img": "https://www.cmuse.org/wp-content/uploads/2020/05/learn-italian-lessons-online.jpg",
+        "courseFee": 2100
+       
+    },
+    {
+        "key": "007",
+        "name": "German",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "In-person",
+        "duration": "7 months",
+        "img": "https://speechling.com/blog/content/images/size/w2000/2018/01/Learn-German.JPG",
+        "courseFee": 2300
+       
+    },
+    {
+        "key": "008",
+        "name": "Mandarin",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "Online",
+        "duration": "7 months",
+        "img": "https://blog.keatschinese.com/wp-content/uploads/2018/01/feature-image-for-reasons.jpg",
+        "courseFee": 2200
+       
+    },
+    {
+        "key": "009",
+        "name": "Arabic",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "Online",
+        "duration": "7 months",
+        "img": "https://i2.wp.com/madrasatelquran.com/wp-content/uploads/2019/03/Learn-Arabic-Language-Madrasat-El-Quran.jpg?fit=990%2C600&ssl=1",
+        "courseFee": 3500
+       
+    },
+    {
+        "key": "010",
+        "name": "Urdu",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "In-person",
+        "duration": "7 months",
+        "img": "https://i.ytimg.com/vi/X_DcqzicDMU/maxresdefault.jpg",
+        "courseFee": 2500
+       
+    },
+    {
+        "key": "011",
+        "name": "Hindi",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "Online",
+        "duration": "7 months",
+        "img": "https://www.wikihow.com/images/d/dc/Learn-Hindi-Step-22-Version-2.jpg",
+        "courseFee": 1500
+       
+    },
+    {
+        "key": "012",
+        "name": "Portugese",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "Online",
+        "duration": "4 months",
+        "img": "https://thumbs.dreamstime.com/z/learn-portuguese-text-label-planning-notebook-learning-spelling-grammar-conversational-practice-learn-portuguese-213532935.jpg",
+        "courseFee": 4500
+       
+    },
+    {
+        "key": "013",
+        "name": "Dutch",
+	    "description": "Learn your desired language to achieve your goals",
+        "method": "In-person",
+        "duration": "3 months",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9VvVCH2C98cozCu0WU94mQ_0qwDAdgefJVg&usqp=CAU",
+        "courseFee": 5000
+       
+    }
+      
+]
